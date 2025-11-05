@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript Essentials 1",
+    "issuer": "Cisco Networking Academy",
+    "date": "2025",
+    "image": "/cisco1.jpg",
+    "badgeUrl": "https://www.credly.com/badges/70923d01-b6ed-407f-a00b-c3864220579b/public_url",
+    "verifyUrl": "https://www.credly.com/badges/your-js-essentials1-badge",
+    "skills": ["JavaScript", "Programming Fundamentals", "DOM Manipulation", "ES6+"]
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Essentials 2",
+    "issuer": "Cisco Networking Academy", 
+    "date": "2025",
+    "image": "/cisco2jpg.jpg",
+    "badgeUrl": "https://www.credly.com/badges/a7b32fae-2880-4d25-a949-4baa6f759323/public_url",
+    "verifyUrl": "https://www.credly.com/badges/your-js-essentials2-badge",
+    "skills": ["Advanced JavaScript", "APIs", "Async Programming", "Modern JS Features"]
+  },
+  {
+    "id": 3,
+    "title": "Python Essentials 1",
+    "issuer": "Cisco Networking Academy",
+    "date": "2025",
+    "image": "/cisco3.jpg",
+    "badgeUrl": "https://www.credly.com/badges/29b021ad-cb3b-46be-9c4c-f83eb0d57c65/public_url",
+    "verifyUrl": "https://www.credly.com/badges/your-python-essentials1-badge",
+    "skills": ["Python Programming", "Basic Algorithms", "Data Types", "Control Structures"]
+  },
+  {
+    "id": 4,
+    "title": "Python Essentials 2",
+    "issuer": "Cisco Networking Academy",
+    "date": "2025",
+    "image": "/cisco4.jpg",
+    "badgeUrl": "https://www.credly.com/badges/e917a8c6-4f5d-4ebb-9bb9-0f58505528f1/public_url",
+    "verifyUrl": "https://www.credly.com/badges/your-python-essentials2-badge",
+    "skills": ["OOP in Python", "File Handling", "Libraries", "Advanced Python Concepts"]
+  }
+]

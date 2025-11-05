@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Pharmacie Laravel Project",
+    "description": "A complete pharmacy management system with authentication, medicine CRUD, order management, and admin dashboard.",
+    "image": "/main_page.png",
+    "technologies": ["Laravel", "PHP", "MySQL", "Bootstrap", "JavaScript"],
+    "githubUrl": "https://github.com/KarimJebbari/pharmacy-management-system",
+    "videoUrl": "https://drive.google.com/file/d/1CeQ2c2pU9O-0Jvu1N5I8FFczahEbi2-r/view?usp=drive_link",
+    "features": ["Authentication", "Medicine CRUD", "Stock Management", "Order System"]
+  },
+  {
+    "id": 2,
+    "title": "Todo List React App", 
+    "description": "A task management application with add, edit, delete, and filter functionalities.",
+    "image": "/todo1.png",
+    "technologies": ["React", "CSS3", "JavaScript", "LocalStorage"],
+    "githubUrl": "https://github.com/KarimJebbari/todo-list",
+    "videoUrl": "https://drive.google.com/file/d/1egcz4qIi8B6DkTlCNem_syqSSRblCip-/view?usp=drive_link",
+    "features": ["Add/Delete Tasks", "Filter Tasks", "Data Persistence"]
+  },
+  {
+    "id": 3,
+    "title": "Personal Portfolio",
+    "description": "Responsive portfolio website built with React to showcase projects and skills.",
+    "image": "/portfolio_karim.png",
+    "technologies": ["React", "JavaScript", "CSS3", "Responsive Design"],
+    "githubUrl": "https://github.com/yourusername/portfolio",
+    "videoUrl": "",
+    "features": ["Responsive Design", "Smooth Animations", "Project Showcase"]
+  }
+]
