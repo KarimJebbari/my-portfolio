@@ -1,10 +1,20 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import certificatesData from '../data/certificatesData.json';
 import './Certificates.css';
 
 const Certificates = () => {
   const [selectedCertificate, setSelectedCertificate] = useState(null);
+  useEffect(() => {
+    if (selectedCertificate) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = 'auto';
+    }
 
+    return () => {
+      document.body.style.overflow = 'auto';
+    };
+  }, [selectedCertificate]);
   return (
     <section id="certificates" className="certificates-section">
       <div className="container">
