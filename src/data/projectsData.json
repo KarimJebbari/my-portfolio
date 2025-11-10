@@ -25,7 +25,7 @@
     "description": "Responsive portfolio website built with React to showcase projects and skills.",
     "image": "/portfolio_karim.png",
     "technologies": ["React", "JavaScript", "CSS3", "Responsive Design"],
-    "githubUrl": "https://github.com/yourusername/portfolio",
+    "githubUrl": "https://github.com/KarimJebbari/my-portfolio",
     "videoUrl": "",
     "features": ["Responsive Design", "Smooth Animations", "Project Showcase"]
   }
